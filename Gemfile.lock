@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    commander (4.6.0)
+      highline (~> 2.0.0)
+    highline (2.0.3)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  commander (>= 2.3)
+
+RUBY VERSION
+   ruby 3.0.3p157
+
+BUNDLED WITH
+   2.3.8
